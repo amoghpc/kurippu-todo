@@ -13,11 +13,11 @@ Kurippu has been written on Python,
 
 ### The Problem Given By RajaRavivarma
 
-1 Goto this website:;
-    https://github.com/ginatrapani/todo.txt-cli;
+1 Goto this website
+    https://github.com/ginatrapani/todo.txt-cli
     
-2. Develop a similar command line interface using Python/Ruby and Evernote API (http://dev.evernote.com/doc/);
-    We prefer it in Python/Ruby but any language can be used;
+2. Develop a similar command line interface using Python/Ruby and Evernote API (http://dev.evernote.com/doc/)
+    We prefer it in Python/Ruby but any language can be used
 
 3. We expect these functionalities:
     1. Showing a list of created Notes.
