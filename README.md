@@ -77,7 +77,7 @@ That will show you the note "IIT M Research Park 24.12.2013".
 ## Removing notes
 
 ### Synopsis
-    $ python kurippu.py remove --notebook <note name>
+    $ python kurippu.py remove --note <note name>
                      [--force]
 
 ### Examples
